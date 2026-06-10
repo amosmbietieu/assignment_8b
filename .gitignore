@@ -20,3 +20,15 @@ output/*.md
 # OS
 .DS_Store
 Thumbs.db
+
+# Virtual environments — NEVER commit these
+venv/
+.venv/
+env/
+assignment8b/
+*/bin/python*
+*/lib/python*/
+*.so
+*.egg-info/
+dist/
+build/

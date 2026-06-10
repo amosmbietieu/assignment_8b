@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Pipeline (Mock Mode — no API key)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/orchestrator.py",
+      "args": ["--mock"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Run Pipeline (Real API)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/orchestrator.py",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Run Dashboard",
+      "type": "python",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "dashboard.py"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Run All Tests",
+      "type": "python",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["tests/", "-v"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

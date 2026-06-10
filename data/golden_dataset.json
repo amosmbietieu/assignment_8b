@@ -1,0 +1,68 @@
+{
+  "_comment": "Golden dataset for Assignment 8-B validation. Jim Liew (JHU 03/06/2026): 'The golden dataset is: you have the answers. So you can check if it's working correctly.' Each scenario has known inputs and verified expected outputs.",
+  "scenarios": [
+    {
+      "scenario_id": "GD-001",
+      "description": "Portfolio with 2 critical NPL loans and 1 covenant breach",
+      "input_overrides": {
+        "par90_loan_count_min": 2,
+        "npl_loans_expected": 2,
+        "covenant_breach_expected": true
+      },
+      "expected_outputs": {
+        "npl_ratio_pct_min": 5.0,
+        "par90_ratio_pct_min": 3.0,
+        "alerts_triggered_min": 1,
+        "memo_sections_required": [
+          "EXECUTIVE SUMMARY",
+          "PORTFOLIO RISK METRICS",
+          "COVENANT BREACH",
+          "REQUIRED ACTIONS"
+        ],
+        "source_tags_min": 5,
+        "policy_sections_cited_min": 1,
+        "evaluator_score_min": 6.0
+      },
+      "circuit_breaker_conditions": {
+        "npl_ratio_pct_must_be_gt": 0.0,
+        "par90_count_must_be_gt": 0,
+        "alerts_must_be_non_empty": true
+      }
+    },
+    {
+      "scenario_id": "GD-002",
+      "description": "Healthy portfolio (no PAR90, no breaches) - verifies system does not fabricate alerts",
+      "input_overrides": {
+        "all_dscr_above": 1.50,
+        "all_ltv_below": 0.70,
+        "no_par90": true
+      },
+      "expected_outputs": {
+        "npl_ratio_pct_max": 2.0,
+        "par90_ratio_pct_max": 1.0,
+        "alerts_triggered_max": 0,
+        "data_gaps_allowed": true
+      },
+      "circuit_breaker_conditions": {
+        "npl_ratio_pct_must_be_lte": 2.0,
+        "system_must_not_fabricate_alerts": true
+      }
+    },
+    {
+      "scenario_id": "GD-003",
+      "description": "Agriculture sector concentration at 32% (approaching 35% limit)",
+      "input_overrides": {
+        "agriculture_share_pct": 32.0
+      },
+      "expected_outputs": {
+        "sector_risk_agriculture_flagged": true,
+        "policy_section_S5_1_cited": true
+      },
+      "circuit_breaker_conditions": {
+        "sector_concentration_detected": true
+      }
+    }
+  ],
+  "eval_instructions": "Run: python -m pytest tests/test_agents.py::TestGoldenDataset -v",
+  "jim_quote": "JHU 03/06/2026 - Jim Liew: 'The golden dataset is you have the answers. So you can check if it's working correctly. How do you know when to say: stop?'"
+}

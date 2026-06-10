@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Secrets — NEVER commit API keys
+.env
+.env.local
+*.env
+
+# Logs (auto-generated — commit only .gitkeep)
+logs/*.jsonl
+logs/*.json
+
+# Pipeline outputs (auto-generated)
+output/*.json
+output/*.md
+
+# OS
+.DS_Store
+Thumbs.db

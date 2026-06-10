@@ -1,0 +1,5402 @@
+[
+  {
+    "loan_id": "AFB-10000",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 21,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10000",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 930175,
+    "paid": 930175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10001",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 757500,
+    "paid": 757500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10002",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 356375,
+    "paid": 356375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10003",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 676075,
+    "paid": 676075,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10004",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 830825,
+    "paid": 830825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10005",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 271775,
+    "paid": 271775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10006",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 284275,
+    "paid": 284275,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10007",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1097000,
+    "paid": 1097000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10008",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 337650,
+    "paid": 337650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10009",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 201650,
+    "paid": 201650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 854350,
+    "paid": 854350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 854350,
+    "paid": 427136,
+    "days_late": 94,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 854350,
+    "paid": 95782,
+    "days_late": 113,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10010",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 854350,
+    "paid": 333723,
+    "days_late": 95,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10011",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1192850,
+    "paid": 1192850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10012",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 679975,
+    "paid": 679975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1184350,
+    "paid": 1184350,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1184350,
+    "paid": 496970,
+    "days_late": 103,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1184350,
+    "paid": 90237,
+    "days_late": 130,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10013",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1184350,
+    "paid": 280431,
+    "days_late": 99,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10014",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 340500,
+    "paid": 340500,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 14,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 554650,
+    "paid": 554650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 554650,
+    "paid": 46532,
+    "days_late": 114,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 554650,
+    "paid": 267268,
+    "days_late": 129,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10015",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 554650,
+    "paid": 31763,
+    "days_late": 136,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1076300,
+    "paid": 1076300,
+    "days_late": 2,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1076300,
+    "paid": 167880,
+    "days_late": 150,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1076300,
+    "paid": 488654,
+    "days_late": 134,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10016",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1076300,
+    "paid": 213460,
+    "days_late": 115,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 45,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 45,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10017",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1011775,
+    "paid": 1011775,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 37,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1003225,
+    "paid": 1003225,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1003225,
+    "paid": 267232,
+    "days_late": 113,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1003225,
+    "paid": 185883,
+    "days_late": 133,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10018",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1003225,
+    "paid": 324816,
+    "days_late": 123,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10019",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 560875,
+    "paid": 560875,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 27,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 24,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10020",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 277000,
+    "paid": 277000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 831575,
+    "paid": 831575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 831575,
+    "paid": 256089,
+    "days_late": 108,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 831575,
+    "paid": 223766,
+    "days_late": 149,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10021",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 831575,
+    "paid": 193289,
+    "days_late": 121,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 207325,
+    "paid": 207325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 207325,
+    "paid": 86116,
+    "days_late": 106,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 207325,
+    "paid": 28914,
+    "days_late": 96,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10022",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 207325,
+    "paid": 25279,
+    "days_late": 119,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10023",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 826000,
+    "paid": 826000,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10024",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 578325,
+    "paid": 578325,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10025",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1167400,
+    "paid": 1167400,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10026",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 382975,
+    "paid": 382975,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10027",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 900550,
+    "paid": 900550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10028",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 16900,
+    "paid": 16900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10029",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 687675,
+    "paid": 687675,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10030",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 450175,
+    "paid": 450175,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10031",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 234450,
+    "paid": 234450,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 485900,
+    "paid": 485900,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 485900,
+    "paid": 120092,
+    "days_late": 92,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 485900,
+    "paid": 44178,
+    "days_late": 111,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10032",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 485900,
+    "paid": 86205,
+    "days_late": 104,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10033",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 505600,
+    "paid": 505600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10034",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1097825,
+    "paid": 1097825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 16,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10035",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 155600,
+    "paid": 155600,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10036",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1186725,
+    "paid": 1186725,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10037",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 698575,
+    "paid": 698575,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10038",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 388550,
+    "paid": 388550,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10039",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 827825,
+    "paid": 827825,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 194850,
+    "paid": 194850,
+    "days_late": 15,
+    "status": "LATE"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 194850,
+    "paid": 67397,
+    "days_late": 116,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 194850,
+    "paid": 64686,
+    "days_late": 110,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10040",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 194850,
+    "paid": 46107,
+    "days_late": 114,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10041",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 624300,
+    "paid": 624300,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10042",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 587375,
+    "paid": 587375,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10043",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 770650,
+    "paid": 770650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10044",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 960200,
+    "paid": 960200,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10045",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 183750,
+    "paid": 183750,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10046",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 494475,
+    "paid": 494475,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10047",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 1068650,
+    "paid": 1068650,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10048",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 48425,
+    "paid": 48425,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 1,
+    "due_date": "2024-01-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 2,
+    "due_date": "2024-02-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 3,
+    "due_date": "2024-03-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 4,
+    "due_date": "2024-04-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 5,
+    "due_date": "2024-05-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 6,
+    "due_date": "2024-06-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 7,
+    "due_date": "2024-07-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 8,
+    "due_date": "2024-08-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 9,
+    "due_date": "2024-09-15",
+    "scheduled": 710925,
+    "paid": 710925,
+    "days_late": 0,
+    "status": "ON_TIME"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 10,
+    "due_date": "2024-10-15",
+    "scheduled": 710925,
+    "paid": 125055,
+    "days_late": 112,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 11,
+    "due_date": "2024-11-15",
+    "scheduled": 710925,
+    "paid": 96301,
+    "days_late": 120,
+    "status": "OVERDUE"
+  },
+  {
+    "loan_id": "AFB-10049",
+    "month": 12,
+    "due_date": "2024-12-15",
+    "scheduled": 710925,
+    "paid": 81948,
+    "days_late": 107,
+    "status": "OVERDUE"
+  }
+]
